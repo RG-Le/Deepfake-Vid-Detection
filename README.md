@@ -1,5 +1,8 @@
-# Getting Started with Create React App
+# Getting Started with the App
 
+First install all the depencies for website and server from the requiements file.
+
+Second the start the
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
